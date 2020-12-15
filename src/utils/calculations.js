@@ -13,6 +13,9 @@ export const KNOWN_IMAGES = {
   },
   'openchemistry/torchani': {
     display: 'TorchANI'
+  },
+  'openchemistry/cp2k': {
+    display: 'CP2K'
   }
 }
 
